@@ -1,0 +1,3 @@
+for each in `cat experimentNames.txt `; do ls $each; done
+for each in `cat experimentNames.txt `; do g++ $each/05_sortcery_gate_distribution_$each.cpp -o $each/$each_05_$each.exe; done
+for each in `cat experimentNames.txt `; do cd $each; ./$each.exe; cd .. ;done

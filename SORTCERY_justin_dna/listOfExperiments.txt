@@ -1,0 +1,7 @@
+Bcl-xl_100nM
+BCL-xl_1nM
+BFL1_100nM
+Bfl1_1nM
+Mcl1_100nM
+Mcl1_1nM
+Naive_Pool

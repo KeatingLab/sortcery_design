@@ -1,0 +1,1 @@
+sed -n '1p;1~4p' 160718Kea_D16-7625_1_sequence.fastq | grep -o '.\{8\}$' > allIndex.txt

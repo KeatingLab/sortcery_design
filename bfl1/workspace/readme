@@ -1,0 +1,3 @@
+Reminder: 
+Gates toward the left are the weak gates and gates toward the right are the tight
+When I load the data into the dataframe, this order is preserved, but the expected value is flipped (such that low is now tight)
