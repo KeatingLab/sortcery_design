@@ -43,7 +43,7 @@ def getBarcode(forward):
     #Fist check if barcode2 is available
     myBarcodes2 = ["ATCACG","ACAGTG","CGATGT","CAGATC","GATCAG","GCCAAT","TTAGGC"]
     myBarcodes2Index=-1
-    myBarcodes2Index = getClosestBarcode(forward.id[forward.id.index('#')+1:forward.id.index('#')+7],myBarcodes2,6) 
+    myBarcodes2Index = getClosestBarcode(forward.id[forward.id.index('#')+1:forward.id.index('#')+7],myBarcodes2,5) 
     if(myBarcodes2Index==-1):
         return -1
         
