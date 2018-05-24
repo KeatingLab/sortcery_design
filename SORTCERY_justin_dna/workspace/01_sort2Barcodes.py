@@ -1,15 +1,12 @@
-#!/home/vxue/anaconda/bin/python
-
 from Bio import SeqIO
-import itertools
 import sys 
 
 def main():
 
     #Setup variables (could parse command line args instead)
-    file_f = "/home/jmjenson/Sort_Data/140828_XMF_Combined_Sortcery_ReSeq/140828Kea/D14-3934-1111S/140828Kea_D14-3934_1_sequence.fastq"
-    file_r = "/home/jmjenson/Sort_Data/140828_XMF_Combined_Sortcery_ReSeq/140828Kea/D14-3934-1111S/140828Kea_D14-3934_2_sequence.fastq"
-    dir_out = "/home/vxue/luther/SORTCERY/SORTCERY_justin/"
+    file_f = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/140828Kea_D14-3934_1_sequence.fastq"
+    file_r = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/140828Kea_D14-3934_2_sequence.fastq"
+    dir_out = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/workspace/"
     myFormat = "fastq-illumina" 
     numBarcodes = (24*7)
     
@@ -18,7 +15,7 @@ def main():
     
     myOpenOutStreams = openOutStreams(dir_out,numBarcodes)
         
-    for (forward, reverse) in itertools.izip(records_f,records_r):   
+    for (forward, reverse) in zip(records_f,records_r):   
         barcodeIndex = getBarcode(forward)
         if(barcodeIndex>-1):
             #print barcodeIndex, forward.seq ,reverse.seq
