@@ -1,14 +1,12 @@
-#!~/anaconda3/envs/py2/bin/python
-
 from Bio import SeqIO
 import sys 
 
 def main():
 
     #Setup variables (could parse command line args instead)
-    file_f = "/home/vxue/data/experimental/SORTCERY/2016_11_09/161011Kea_D16-11808_1_sequence.fastq"
-    file_r = "/home/vxue/data/experimental/SORTCERY/2016_11_09/161011Kea_D16-11808_2_sequence.fastq"
-    dir_out = "/home/vxue/data/experimental/SORTCERY/2016_11_09/workspace/"
+    file_f = "/home/vxue/data/SORTCERY_PUBLICATION/2016_11_09/161011Kea_D16-11808_1_sequence.fastq"
+    file_r = "/home/vxue/data/SORTCERY_PUBLICATION/2016_11_09/161011Kea_D16-11808_2_sequence.fastq"
+    dir_out = "/home/vxue/data/SORTCERY_PUBLICATION/2016_11_09/workspace/"
     myFormat = "fastq-sanger"
     numBarcodes = (24*7) #seventh is for naive pool
     
