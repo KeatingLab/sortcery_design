@@ -3,7 +3,6 @@
 from Bio import SeqIO,Seq
 import multiprocessing
 import sys 
-from itertools import izip
 
 globalNumMutations = 0   # How many mutations are allowed in the overlapping region
 globalNumMaxOverlap = 3  # 0 for align to ref 
@@ -31,7 +30,7 @@ writeQueue = None
 
 def main(barcodeToProcess):
     
-    dirName = "/home/vxue/luther/SORTCERY/SORTCERY_justin/"
+    dirName = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/workspace/"
     initializeScaffold()
 
     processFile(dirName+"barcode_",barcodeToProcess,dirName)
@@ -72,17 +71,17 @@ def processFile(prefix,barcodeToProcess,dirName):
     writeQueue.put('kill')
     pool.close()
 
-    print "COMPLETE!"
+    print("COMPLETE!")
 
 def pairIterator(records):
-    for pair1,pair2 in izip(records,records):
+    for pair1,pair2 in zip(records,records):
         yield (pair1,pair2)
 
 def writeToFile(q, dirName,barcode):
     '''listens for messages on the q, writes to file. '''
-    fileArray1 = [open(dirName+"/seqframe/seqframe_"+str(each)+"_code_"+barcode+"",'wb') for each in range(len(globalReference))]
-    fileArray2 = [open(dirName+"/dnaframe/dnaframe_"+str(each)+"_code_"+barcode+"",'wb') for each in range(len(globalReference))]
-    fileArray3 = [open(dirName+"/qualframe/qualframe_"+str(each)+"_code_"+barcode+"",'wb') for each in range(len(globalReference))]
+    fileArray1 = [open(dirName+"/seqframe/seqframe_"+str(each)+"_code_"+barcode+"",'w') for each in range(len(globalReference))]
+    fileArray2 = [open(dirName+"/dnaframe/dnaframe_"+str(each)+"_code_"+barcode+"",'w') for each in range(len(globalReference))]
+    fileArray3 = [open(dirName+"/qualframe/qualframe_"+str(each)+"_code_"+barcode+"",'w') for each in range(len(globalReference))]
 
     while 1:
         res = q.get()
@@ -181,8 +180,8 @@ def getAlignmentsForTailMatch(string1,string2,maxOverlap=-1,allowableMutations=0
         
         if (verbose):
             #print aString,bString
-            print extendedString1
-            print extendedString2 , scoreAlignment(aString,bString) , i
+            print(extendedString1)
+            print(extendedString2 , scoreAlignment(aString,bString) , i)
             #print '----------'
         
         shiftArray.append((len(string1)-i,counter,numCompared,scoreAlignment(aString,
@@ -332,7 +331,7 @@ def getDNAAndAA(forwardRecord,reverseRecord):
         else:
             if(string1[i]==' '):
                 myRead.append('N')
-                myReadQuality.append('0')
+                myReadQuality.append(0)
 
             else:
                 myRead.append(string1[i])
@@ -354,14 +353,14 @@ def getDNAAndAA(forwardRecord,reverseRecord):
     #if(refIndex==1):
     
     #
-    #print 'R',referenceShift+reference                  
-    #print '+',forwardShift + forwardReads
-    #print '-',reverseShift+ reverseReads
-    #print myExtractedAA
-    #print myExtractedQuality
-    #print '---------------------------------'
-    #print alignedFQuality
-    #print alignedRQuality
+    #print('R',referenceShift+reference)                  
+    #print('+',forwardShift + forwardReads)
+    #print('-',reverseShift+ reverseReads)
+    #print(myExtractedAA)
+    #print(myExtractedQuality)
+    #print('---------------------------------')
+    #print(alignedFQuality)
+    #print(alignedRQuality)
         #print str("".join(myRead)).rjust(120)
 
 
