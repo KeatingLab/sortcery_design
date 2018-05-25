@@ -1,0 +1,139 @@
+name: localEnv2
+channels:
+- conda-forge
+- defaults
+dependencies:
+- biopython=1.66=np110py35_0
+- cairo=1.12.18=6
+- conda-forge::h5py=2.7.1=py35_2
+- conda-forge::hdf5=1.10.1=0
+- conda-forge::joblib=0.11=py35_0
+- conda-forge::keras=2.0.6=py35_0
+- conda-forge::libgpuarray=0.7.4=0
+- conda-forge::mako=1.0.7=py35_0
+- conda-forge::ncurses=5.9=10
+- conda-forge::openblas=0.2.20=2
+- conda-forge::pandas=0.20.3=py35_1
+- conda-forge::patsy=0.4.1=py35_0
+- conda-forge::pygpu=0.7.4=py35_0
+- conda-forge::pymc3=3.2=py35_0
+- conda-forge::python-ternary=1.0.3=py35_0
+- conda-forge::pyyaml=3.12=py35_1
+- conda-forge::readline=6.2=0
+- conda-forge::statsmodels=0.8.0=py35_0
+- conda-forge::theano=0.9.0=py35_1
+- conda-forge::tqdm=4.19.4=py_0
+- conda-forge::yaml=0.1.6=0
+- curl=7.49.0=1
+- cycler=0.10.0=py35_0
+- decorator=4.0.9=py35_0
+- fontconfig=2.11.1=5
+- freetype=2.5.5=0
+- glib=2.43.0=0
+- graphviz=2.38.0=1
+- harfbuzz=0.9.39=0
+- https://conda.anaconda.org/jjhelmus::protobuf=3.0.0b2=py35_1
+- https://conda.anaconda.org/jjhelmus::tensorflow=0.7.1=py35_1
+- ipykernel=4.3.1=py35_0
+- ipyparallel=5.0.1=py35_0
+- ipython=4.1.2=py35_0
+- ipython_genutils=0.1.0=py35_0
+- ipywidgets=4.1.1=py35_0
+- jbig=2.1=0
+- jinja2=2.8=py35_0
+- jpeg=8d=0
+- jsonschema=2.4.0=py35_0
+- jupyter=1.0.0=py35_1
+- jupyter_client=4.1.1=py35_0
+- jupyter_console=4.1.0=py35_0
+- jupyter_core=4.0.6=py35_0
+- libffi=3.2.1=0
+- libgfortran=3.0=0
+- libpng=1.6.17=0
+- libsodium=1.0.3=0
+- libtiff=4.0.6=1
+- libxml2=2.9.2=0
+- markupsafe=0.23=py35_0
+- matplotlib=1.5.1=np111py35_0
+- mistune=0.7.1=py35_0
+- mkl=11.3.1=0
+- nbconvert=4.1.0=py35_0
+- nbformat=4.0.1=py35_0
+- notebook=4.1.0=py35_0
+- numpy=1.11.0=py35_0
+- openssl=1.0.2h=1
+- pango=1.39.0=0
+- path.py=8.1.2=py35_1
+- pexpect=3.3=py35_0
+- pickleshare=0.5=py35_0
+- pillow=3.2.0=py35_0
+- pip=8.1.1=py35_1
+- pixman=0.32.6=0
+- ptyprocess=0.5=py35_0
+- pygments=2.1=py35_0
+- pyparsing=2.0.3=py35_0
+- pyqt=4.11.4=py35_1
+- python=3.5.1=0
+- python-dateutil=2.4.2=py35_0
+- pytz=2015.7=py35_0
+- pyzmq=15.2.0=py35_0
+- qt=4.8.7=1
+- qtconsole=4.1.1=py35_0
+- scikit-learn=0.17.1=np111py35_0
+- scipy=0.17.0=np111py35_2
+- seaborn=0.7.0=py35_0
+- setuptools=20.7.0=py35_0
+- simplegeneric=0.8.1=py35_0
+- sip=4.16.9=py35_0
+- six=1.10.0=py35_0
+- sqlite=3.9.2=0
+- terminado=0.5=py35_1
+- tk=8.5.18=0
+- tornado=4.3=py35_0
+- traitlets=4.1.0=py35_0
+- wheel=0.29.0=py35_0
+- xz=5.0.5=1
+- zeromq=4.1.3=0
+- zlib=1.2.8=3
+- pip:
+  - certifi==2017.11.5
+  - chardet==3.0.4
+  - h5py==2.7.1
+  - idna==2.6
+  - ipython-cluster-helper==0.5.1
+  - ipython-genutils==0.1.0
+  - joblib==0.11
+  - jupyter-client==4.1.1
+  - jupyter-console==4.1.0
+  - jupyter-core==4.0.6
+  - keras==1.0.1
+  - localcider==0.1.8.post1
+  - mako==1.0.7
+  - matplotlib-venn==0.11.5
+  - netifaces==0.10.4
+  - oauthlib==2.0.6
+  - pandas==0.21.0
+  - patsy==0.4.1
+  - protobuf==3.0.0b2.post2
+  - pulp==1.6.1
+  - pydot-ng==1.0.0
+  - pydot3==1.0.8
+  - pygpu==0.7.4
+  - pymc3==3.2
+  - python-ternary==1.0.3
+  - pyyaml==3.11
+  - readline==6.2.4.1
+  - requests==2.18.4
+  - requests-oauthlib==0.8.0
+  - rpy2==2.8.2
+  - rstr==2.2.4
+  - statsmodels==0.8.0
+  - tensorflow==0.7.1
+  - theano==0.9.0
+  - tqdm==4.19.4
+  - tweepy==3.5.0
+  - uncertainties==2.4.7.1
+  - urllib3==1.22
+  - weblogo==3.4
+prefix: /home/vxue/anaconda/envs/localEnv2
+
