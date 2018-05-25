@@ -7,7 +7,7 @@
 #SBATCH -o /dev/null
 #SBATCH -e /dev/null
 #SBTACH --mem=8000
-cd /home/vxue/data/experimental/SORTCERY/2016_11_09/workspace
+cd /home/vxue/data/SORTCERY_PUBLICATION/2016_11_09/workspace
 
 if [ ! -d seqframe ]; then
     mkdir seqframe;

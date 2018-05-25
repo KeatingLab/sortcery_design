@@ -9,7 +9,7 @@ This code is a little difficult
 important parameters to update are 
 
 myUniqueName
-
+dirName
 '''
 myUniqueName = "2016_11_09"
 
@@ -41,7 +41,7 @@ writeQueue = None
 
 def main(barcodeToProcess):
     
-    dirName = "/home/vxue/data/experimental/SORTCERY/"+myUniqueName+"/workspace/"
+    dirName = "/home/vxue/data/SORTCERY_PUBLICATION/"+myUniqueName+"/workspace/"
     initializeScaffold()
 
     processFile(dirName+"barcode_",barcodeToProcess,dirName)
