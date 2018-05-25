@@ -7,7 +7,7 @@ import sys
 '''
 This code is a little difficult 
 important parameters to update are 
-
+dirName
 '''
 
 
@@ -38,7 +38,7 @@ writeQueue = None
 
 def main(barcodeToProcess):
     
-    dirName = "/home/vxue/data/experimental/SORTCERY/bfl1/workspace/"
+    dirName = "/home/vxue/data/SORTCERY_PUBLICATION/bfl1/workspace/"
     initializeScaffold()
 
     processFile(dirName+"barcode_",barcodeToProcess,dirName)
