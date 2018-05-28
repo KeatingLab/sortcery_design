@@ -1,12 +1,11 @@
-#!/home/vxue/anaconda/bin/python
 
 import pandas as pd
 import os 
 
 numBg = 2;
-dirName = "/home/vxue/data/experimental/SORTCERY/2016_11_09/workspace/"
+dirName = "/home/vxue/data/SORTCERY_PUBLICATION/2016_11_09/workspace/"
 filePrefix = dirName+"dnaframe/summary/dnaframe_"
-multiplexFile = "/home/vxue/data/experimental/SORTCERY/2016_11_09/multiplex.txt"
+multiplexFile = "/home/vxue/data/SORTCERY_PUBLICATION/2016_11_09/multiplex.txt"
 numBarcodes1 = 24;
 numBarcodes2 = 2;
 
@@ -30,7 +29,7 @@ def main():
                     
                     fileName = filePrefix+str(bg)+"_code_"+str(barcode)+".smry"
                     
-                    print experiment,gate,"-",barcode1+1,barcode2+1,barcode
+                    print(experiment,gate,"-",barcode1+1,barcode2+1,barcode)
                     foo = pd.read_csv(fileName,
                     delimiter='\s+',
                     header=None,names=['bc'+str(barcode),'seq'])
@@ -51,7 +50,7 @@ def main():
             myExperiment.fillna(0,inplace=True)
             #print myExperiment[['CN_'+str(each+1) for each in range(12)]].head()
             
-            print experiment
+            print(experiment)
             
             if not os.path.exists(dirName+experiment+"_dna"):
                 os.makedirs(dirName+experiment+"_dna")

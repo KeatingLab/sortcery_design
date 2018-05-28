@@ -1,13 +1,12 @@
 import pandas as pd
 import os 
 
-
 numBg = 2;
-dirName = "/home/vxue/data/SORTCERY_PUBLICATION/2016_11_09/workspace/"
+dirName = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/workspace/"
 filePrefix = dirName+"seqframe/summary/seqframe_"
-multiplexFile = "/home/vxue/data/SORTCERY_PUBLICATION/2016_11_09/multiplex.txt"
+multiplexFile = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/multiplex.txt"
 numBarcodes1 = 24;
-numBarcodes2 = 2;
+numBarcodes2 = 7;
 
 def main():
     myDataAssignments = getDataSplit(multiplexFile)

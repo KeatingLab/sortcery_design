@@ -1,13 +1,12 @@
 import pandas as pd
 import os 
 
-
 numBg = 2;
-dirName = "/home/vxue/data/SORTCERY_PUBLICATION/2016_11_09/workspace/"
-filePrefix = dirName+"seqframe/summary/seqframe_"
-multiplexFile = "/home/vxue/data/SORTCERY_PUBLICATION/2016_11_09/multiplex.txt"
+dirName = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/workspace/"
+filePrefix = dirName+"dnaframe/summary/dnaframe_"
+multiplexFile = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/multiplex.txt"
 numBarcodes1 = 24;
-numBarcodes2 = 2;
+numBarcodes2 = 7;
 
 def main():
     myDataAssignments = getDataSplit(multiplexFile)
@@ -52,8 +51,8 @@ def main():
             
             print(experiment)
             
-            if not os.path.exists(dirName+experiment):
-                os.makedirs(dirName+experiment)
+            if not os.path.exists(dirName+experiment+"_dna"):
+                os.makedirs(dirName+experiment+"_dna")
             
             #Special case for Naieve
             numGates=12
@@ -61,14 +60,14 @@ def main():
                 numGates=1
                 
             
-            with open(dirName+experiment+"/cell_counts_seqframe_"+str(bg),'w') as countStream, open(dirName+experiment+"/unique_seqs_seqframe_"+str(bg),'w') as seqStream:
+            with open(dirName+experiment+"_dna/cell_counts_dnaframe_"+str(bg),'w') as countStream, open(dirName+experiment+"_dna/unique_seqs_dnaframe_"+str(bg),'w') as seqStream:
                 for index, each in myExperiment.iterrows():
                     seqStream.write(each.seq)
                     seqStream.write("\n")
                     for i in range(numGates):
                         countStream.write(str(int(each["CN_"+str(i+1)])) + " ")
                     countStream.write("\n")
-            myExperiment.to_pickle(dirName+experiment+"/rawCounts_"+ str(bg) + ".pickle")
+            myExperiment.to_pickle(dirName+experiment+"_dna/rawCounts_"+ str(bg) + ".pickle")
 
     
         
