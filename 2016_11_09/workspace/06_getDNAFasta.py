@@ -1,7 +1,5 @@
-#!/home/vxue/anaconda/bin/python
-
-multiplexFile = "/home/vxue/data/experimental/SORTCERY/2016_11_09/multiplex.txt"
-baseName = "/home/vxue/data/experimental/SORTCERY/2016_11_09/workspace/"
+multiplexFile = "/home/vxue/data/SORTCERY_PUBLICATION/2016_11_09/multiplex.txt"
+baseName = "/home/vxue/data/SORTCERY_PUBLICATION/2016_11_09/workspace/"
 myMultiplex = open(multiplexFile,'r').readlines()
 
 
