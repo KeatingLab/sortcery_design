@@ -2,9 +2,9 @@ import pandas as pd
 import os 
 
 numBg = 2;
-dirName = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/workspace/"
+dirName = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_spec_dna/workspace/"
 filePrefix = dirName+"seqframe/summary/seqframe_"
-multiplexFile = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/multiplex.txt"
+multiplexFile = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_spec_dna/multiplex.txt"
 numBarcodes1 = 24;
 numBarcodes2 = 7;
 

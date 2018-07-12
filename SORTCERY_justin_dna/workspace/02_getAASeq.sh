@@ -7,7 +7,7 @@
 #SBATCH -o /dev/null
 #SBATCH -e /dev/null
 #SBTACH --mem=8000
-cd /home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/workspace
+cd /home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_spec_dna/workspace
 
 if [ ! -d seqframe ]; then
     mkdir seqframe;

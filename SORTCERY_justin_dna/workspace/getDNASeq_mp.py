@@ -30,7 +30,7 @@ writeQueue = None
 
 def main(barcodeToProcess):
     
-    dirName = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/workspace/"
+    dirName = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_spec_dna/workspace/"
     initializeScaffold()
 
     processFile(dirName+"barcode_",barcodeToProcess,dirName)

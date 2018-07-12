@@ -1,8 +1,8 @@
 import pandas as pd
 import numpy as np
 
-dirName = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/workspace/"
-experimentNames = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/experimentNames.txt"
+dirName = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_spec_dna/workspace/"
+experimentNames = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_spec_dna/experimentNames.txt"
 
 
 

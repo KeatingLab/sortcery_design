@@ -1,5 +1,5 @@
-multiplexFile = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/multiplex.txt"
-baseName = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/workspace/"
+multiplexFile = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_spec_dna/multiplex.txt"
+baseName = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_spec_dna/workspace/"
 myMultiplex = open(multiplexFile,'r').readlines()
 
 

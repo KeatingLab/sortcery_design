@@ -4,9 +4,9 @@ import sys
 def main():
 
     #Setup variables (could parse command line args instead)
-    file_f = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/140828Kea_D14-3934_1_sequence.fastq"
-    file_r = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/140828Kea_D14-3934_2_sequence.fastq"
-    dir_out = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_justin_dna/workspace/"
+    file_f = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_spec_dna/140828Kea_D14-3934_1_sequence.fastq"
+    file_r = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_spec_dna/140828Kea_D14-3934_2_sequence.fastq"
+    dir_out = "/home/vxue/data/SORTCERY_PUBLICATION/SORTCERY_spec_dna/workspace/"
     myFormat = "fastq-illumina" 
     numBarcodes = (24*7)
     
