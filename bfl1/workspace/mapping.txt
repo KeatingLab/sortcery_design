@@ -1,100 +1,100 @@
-bfl1_sortcery_lowreads 1 - 96
-bfl1_sortcery_lowreads 1 - 102
-bfl1_sortcery_lowreads 2 - 108
-bfl1_sortcery_lowreads 2 - 114
-bfl1_sortcery_lowreads 3 - 97
-bfl1_sortcery_lowreads 3 - 103
-bfl1_sortcery_lowreads 4 - 109
-bfl1_sortcery_lowreads 4 - 115
-bfl1_sortcery_lowreads 5 - 98
-bfl1_sortcery_lowreads 5 - 104
-bfl1_sortcery_lowreads 6 - 110
-bfl1_sortcery_lowreads 6 - 116
-bfl1_sortcery_lowreads 7 - 99
-bfl1_sortcery_lowreads 7 - 105
-bfl1_sortcery_lowreads 8 - 111
-bfl1_sortcery_lowreads 8 - 117
-bfl1_sortcery_lowreads 9 - 100
-bfl1_sortcery_lowreads 9 - 106
-bfl1_sortcery_lowreads 10 - 112
-bfl1_sortcery_lowreads 10 - 118
-bfl1_sortcery_lowreads 11 - 101
-bfl1_sortcery_lowreads 11 - 107
-bfl1_sortcery_lowreads 12 - 113
-bfl1_sortcery_lowreads 12 - 119
-bfl1_sortcery_lowreads
-bfl1_sortcery_contam 1 - 72
-bfl1_sortcery_contam 1 - 78
-bfl1_sortcery_contam 2 - 84
-bfl1_sortcery_contam 2 - 90
-bfl1_sortcery_contam 3 - 73
-bfl1_sortcery_contam 3 - 79
-bfl1_sortcery_contam 4 - 85
-bfl1_sortcery_contam 4 - 82
-bfl1_sortcery_contam 5 - 74
-bfl1_sortcery_contam 5 - 80
-bfl1_sortcery_contam 6 - 86
-bfl1_sortcery_contam 6 - 83
-bfl1_sortcery_contam 7 - 75
-bfl1_sortcery_contam 7 - 81
-bfl1_sortcery_contam 8 - 87
-bfl1_sortcery_contam 8 - 93
-bfl1_sortcery_contam 9 - 76
-bfl1_sortcery_contam 9 - 91
-bfl1_sortcery_contam 10 - 88
-bfl1_sortcery_contam 10 - 94
-bfl1_sortcery_contam 11 - 77
-bfl1_sortcery_contam 11 - 92
-bfl1_sortcery_contam 12 - 89
-bfl1_sortcery_contam 12 - 95
+bfl1_sortcery_contam_72	1
+bfl1_sortcery_contam_78	1
+bfl1_sortcery_contam_84	2
+bfl1_sortcery_contam_90	2
+bfl1_sortcery_contam_73	3
+bfl1_sortcery_contam_79	3
+bfl1_sortcery_contam_85	4
+bfl1_sortcery_contam_82	4
+bfl1_sortcery_contam_74	5
+bfl1_sortcery_contam_80	5
+bfl1_sortcery_contam_86	6
+bfl1_sortcery_contam_83	6
+bfl1_sortcery_contam_75	7
+bfl1_sortcery_contam_81	7
+bfl1_sortcery_contam_87	8
+bfl1_sortcery_contam_93	8
+bfl1_sortcery_contam_76	9
+bfl1_sortcery_contam_91	9
+bfl1_sortcery_contam_88	10
+bfl1_sortcery_contam_94	10
+bfl1_sortcery_contam_77	11
+bfl1_sortcery_contam_92	11
+bfl1_sortcery_contam_89	12
+bfl1_sortcery_contam_95	12
 bfl1_sortcery_contam
-bfl1_sortcery_lowreads 1 - 96
-bfl1_sortcery_lowreads 1 - 102
-bfl1_sortcery_lowreads 2 - 108
-bfl1_sortcery_lowreads 2 - 114
-bfl1_sortcery_lowreads 3 - 97
-bfl1_sortcery_lowreads 3 - 103
-bfl1_sortcery_lowreads 4 - 109
-bfl1_sortcery_lowreads 4 - 115
-bfl1_sortcery_lowreads 5 - 98
-bfl1_sortcery_lowreads 5 - 104
-bfl1_sortcery_lowreads 6 - 110
-bfl1_sortcery_lowreads 6 - 116
-bfl1_sortcery_lowreads 7 - 99
-bfl1_sortcery_lowreads 7 - 105
-bfl1_sortcery_lowreads 8 - 111
-bfl1_sortcery_lowreads 8 - 117
-bfl1_sortcery_lowreads 9 - 100
-bfl1_sortcery_lowreads 9 - 106
-bfl1_sortcery_lowreads 10 - 112
-bfl1_sortcery_lowreads 10 - 118
-bfl1_sortcery_lowreads 11 - 101
-bfl1_sortcery_lowreads 11 - 107
-bfl1_sortcery_lowreads 12 - 113
-bfl1_sortcery_lowreads 12 - 119
+bfl1_sortcery_lowreads_96	1
+bfl1_sortcery_lowreads_102	1
+bfl1_sortcery_lowreads_108	2
+bfl1_sortcery_lowreads_114	2
+bfl1_sortcery_lowreads_97	3
+bfl1_sortcery_lowreads_103	3
+bfl1_sortcery_lowreads_109	4
+bfl1_sortcery_lowreads_115	4
+bfl1_sortcery_lowreads_98	5
+bfl1_sortcery_lowreads_104	5
+bfl1_sortcery_lowreads_110	6
+bfl1_sortcery_lowreads_116	6
+bfl1_sortcery_lowreads_99	7
+bfl1_sortcery_lowreads_105	7
+bfl1_sortcery_lowreads_111	8
+bfl1_sortcery_lowreads_117	8
+bfl1_sortcery_lowreads_100	9
+bfl1_sortcery_lowreads_106	9
+bfl1_sortcery_lowreads_112	10
+bfl1_sortcery_lowreads_118	10
+bfl1_sortcery_lowreads_101	11
+bfl1_sortcery_lowreads_107	11
+bfl1_sortcery_lowreads_113	12
+bfl1_sortcery_lowreads_119	12
 bfl1_sortcery_lowreads
-bfl1_sortcery_contam 1 - 72
-bfl1_sortcery_contam 1 - 78
-bfl1_sortcery_contam 2 - 84
-bfl1_sortcery_contam 2 - 90
-bfl1_sortcery_contam 3 - 73
-bfl1_sortcery_contam 3 - 79
-bfl1_sortcery_contam 4 - 85
-bfl1_sortcery_contam 4 - 82
-bfl1_sortcery_contam 5 - 74
-bfl1_sortcery_contam 5 - 80
-bfl1_sortcery_contam 6 - 86
-bfl1_sortcery_contam 6 - 83
-bfl1_sortcery_contam 7 - 75
-bfl1_sortcery_contam 7 - 81
-bfl1_sortcery_contam 8 - 87
-bfl1_sortcery_contam 8 - 93
-bfl1_sortcery_contam 9 - 76
-bfl1_sortcery_contam 9 - 91
-bfl1_sortcery_contam 10 - 88
-bfl1_sortcery_contam 10 - 94
-bfl1_sortcery_contam 11 - 77
-bfl1_sortcery_contam 11 - 92
-bfl1_sortcery_contam 12 - 89
-bfl1_sortcery_contam 12 - 95
+bfl1_sortcery_contam_72	1
+bfl1_sortcery_contam_78	1
+bfl1_sortcery_contam_84	2
+bfl1_sortcery_contam_90	2
+bfl1_sortcery_contam_73	3
+bfl1_sortcery_contam_79	3
+bfl1_sortcery_contam_85	4
+bfl1_sortcery_contam_82	4
+bfl1_sortcery_contam_74	5
+bfl1_sortcery_contam_80	5
+bfl1_sortcery_contam_86	6
+bfl1_sortcery_contam_83	6
+bfl1_sortcery_contam_75	7
+bfl1_sortcery_contam_81	7
+bfl1_sortcery_contam_87	8
+bfl1_sortcery_contam_93	8
+bfl1_sortcery_contam_76	9
+bfl1_sortcery_contam_91	9
+bfl1_sortcery_contam_88	10
+bfl1_sortcery_contam_94	10
+bfl1_sortcery_contam_77	11
+bfl1_sortcery_contam_92	11
+bfl1_sortcery_contam_89	12
+bfl1_sortcery_contam_95	12
 bfl1_sortcery_contam
+bfl1_sortcery_lowreads_96	1
+bfl1_sortcery_lowreads_102	1
+bfl1_sortcery_lowreads_108	2
+bfl1_sortcery_lowreads_114	2
+bfl1_sortcery_lowreads_97	3
+bfl1_sortcery_lowreads_103	3
+bfl1_sortcery_lowreads_109	4
+bfl1_sortcery_lowreads_115	4
+bfl1_sortcery_lowreads_98	5
+bfl1_sortcery_lowreads_104	5
+bfl1_sortcery_lowreads_110	6
+bfl1_sortcery_lowreads_116	6
+bfl1_sortcery_lowreads_99	7
+bfl1_sortcery_lowreads_105	7
+bfl1_sortcery_lowreads_111	8
+bfl1_sortcery_lowreads_117	8
+bfl1_sortcery_lowreads_100	9
+bfl1_sortcery_lowreads_106	9
+bfl1_sortcery_lowreads_112	10
+bfl1_sortcery_lowreads_118	10
+bfl1_sortcery_lowreads_101	11
+bfl1_sortcery_lowreads_107	11
+bfl1_sortcery_lowreads_113	12
+bfl1_sortcery_lowreads_119	12
+bfl1_sortcery_lowreads

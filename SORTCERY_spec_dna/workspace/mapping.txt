@@ -1,346 +1,346 @@
-Mcl1_100nM 1 - 1 2 24
-Mcl1_100nM 1 - 7 2 30
-Mcl1_100nM 1 - 7 7 150
-Mcl1_100nM 2 - 13 2 36
-Mcl1_100nM 2 - 19 2 42
-Mcl1_100nM 3 - 2 2 25
-Mcl1_100nM 3 - 8 2 31
-Mcl1_100nM 4 - 14 2 37
-Mcl1_100nM 4 - 20 2 43
-Mcl1_100nM 5 - 3 2 26
-Mcl1_100nM 5 - 9 2 32
-Mcl1_100nM 6 - 15 2 38
-Mcl1_100nM 6 - 21 2 44
-Mcl1_100nM 7 - 4 2 27
-Mcl1_100nM 7 - 10 2 33
-Mcl1_100nM 8 - 16 2 39
-Mcl1_100nM 8 - 22 2 45
-Mcl1_100nM 9 - 5 2 28
-Mcl1_100nM 9 - 11 2 34
-Mcl1_100nM 9 - 5 7 148
-Mcl1_100nM 10 - 17 2 40
-Mcl1_100nM 10 - 23 2 46
-Mcl1_100nM 10 - 23 7 166
-Mcl1_100nM 11 - 6 2 29
-Mcl1_100nM 11 - 12 2 35
-Mcl1_100nM 11 - 12 7 155
-Mcl1_100nM 12 - 18 2 41
-Mcl1_100nM 12 - 24 2 47
-Mcl1_100nM 12 - 18 7 161
-Mcl1_100nM
-BFL1_100nM 1 - 1 3 48
-BFL1_100nM 1 - 7 3 54
-BFL1_100nM 1 - 13 3 60
-BFL1_100nM 1 - 1 7 144
-BFL1_100nM 2 - 2 3 49
-BFL1_100nM 2 - 8 3 55
-BFL1_100nM 2 - 19 3 66
-BFL1_100nM 3 - 14 3 61
-BFL1_100nM 3 - 20 3 67
-BFL1_100nM 4 - 3 3 50
-BFL1_100nM 4 - 9 3 56
-BFL1_100nM 5 - 15 3 62
-BFL1_100nM 5 - 21 3 68
-BFL1_100nM 6 - 4 3 51
-BFL1_100nM 6 - 10 3 57
-BFL1_100nM 7 - 16 3 63
-BFL1_100nM 7 - 22 3 69
-BFL1_100nM 8 - 5 3 52
-BFL1_100nM 8 - 11 3 58
-BFL1_100nM 9 - 17 3 64
-BFL1_100nM 9 - 23 3 70
-BFL1_100nM 10 - 6 3 53
-BFL1_100nM 10 - 12 3 59
-BFL1_100nM 11 - 18 3 65
-BFL1_100nM 12 - 24 3 71
+BFL1_100nM_48	1
+BFL1_100nM_54	1
+BFL1_100nM_60	1
+BFL1_100nM_144	1
+BFL1_100nM_49	2
+BFL1_100nM_55	2
+BFL1_100nM_66	2
+BFL1_100nM_61	3
+BFL1_100nM_67	3
+BFL1_100nM_50	4
+BFL1_100nM_56	4
+BFL1_100nM_62	5
+BFL1_100nM_68	5
+BFL1_100nM_51	6
+BFL1_100nM_57	6
+BFL1_100nM_63	7
+BFL1_100nM_69	7
+BFL1_100nM_52	8
+BFL1_100nM_58	8
+BFL1_100nM_64	9
+BFL1_100nM_70	9
+BFL1_100nM_53	10
+BFL1_100nM_59	10
+BFL1_100nM_65	11
+BFL1_100nM_71	12
 BFL1_100nM
-Mcl1_1nM 1 - 1 6 120
-Mcl1_1nM 1 - 7 6 126
-Mcl1_1nM 1 - 13 6 132
-Mcl1_1nM 1 - 13 7 156
-Mcl1_1nM 2 - 19 6 138
-Mcl1_1nM 2 - 2 6 121
-Mcl1_1nM 2 - 2 7 145
-Mcl1_1nM 2 - 8 6 127
-Mcl1_1nM 3 - 14 6 133
-Mcl1_1nM 3 - 20 6 139
-Mcl1_1nM 4 - 3 6 122
-Mcl1_1nM 4 - 9 6 128
-Mcl1_1nM 5 - 15 6 134
-Mcl1_1nM 6 - 21 6 140
-Mcl1_1nM 7 - 4 6 123
-Mcl1_1nM 7 - 10 6 129
-Mcl1_1nM 8 - 16 6 135
-Mcl1_1nM 8 - 22 6 141
-Mcl1_1nM 9 - 5 6 124
-Mcl1_1nM 9 - 11 6 130
-Mcl1_1nM 10 - 17 6 136
-Mcl1_1nM 10 - 23 6 142
-Mcl1_1nM 11 - 6 6 125
-Mcl1_1nM 11 - 12 6 131
-Mcl1_1nM 12 - 3 7 146
-Mcl1_1nM 12 - 18 6 137
-Mcl1_1nM 12 - 24 6 143
-Mcl1_1nM
-BCL-xl_1nM 1 - 1 4 72
-BCL-xl_1nM 1 - 7 4 78
-BCL-xl_1nM 1 - 13 4 84
-BCL-xl_1nM 1 - 19 4 90
-BCL-xl_1nM 1 - 2 4 73
-BCL-xl_1nM 2 - 8 4 79
-BCL-xl_1nM 2 - 14 4 85
-BCL-xl_1nM 2 - 14 7 157
-BCL-xl_1nM 2 - 20 4 91
-BCL-xl_1nM 3 - 3 4 74
-BCL-xl_1nM 3 - 9 4 80
-BCL-xl_1nM 4 - 15 4 86
-BCL-xl_1nM 4 - 21 4 92
-BCL-xl_1nM 5 - 4 4 75
-BCL-xl_1nM 5 - 10 4 81
-BCL-xl_1nM 6 - 16 4 87
-BCL-xl_1nM 6 - 22 4 93
-BCL-xl_1nM 7 - 5 4 76
-BCL-xl_1nM 7 - 11 4 82
-BCL-xl_1nM 8 - 17 4 88
-BCL-xl_1nM 8 - 23 4 94
-BCL-xl_1nM 9 - 6 4 77
-BCL-xl_1nM 10 - 12 4 83
-BCL-xl_1nM 11 - 18 4 89
-BCL-xl_1nM 12 - 24 4 95
+BCL-xl_1nM_72	1
+BCL-xl_1nM_78	1
+BCL-xl_1nM_84	1
+BCL-xl_1nM_90	1
+BCL-xl_1nM_73	1
+BCL-xl_1nM_79	2
+BCL-xl_1nM_85	2
+BCL-xl_1nM_157	2
+BCL-xl_1nM_91	2
+BCL-xl_1nM_74	3
+BCL-xl_1nM_80	3
+BCL-xl_1nM_86	4
+BCL-xl_1nM_92	4
+BCL-xl_1nM_75	5
+BCL-xl_1nM_81	5
+BCL-xl_1nM_87	6
+BCL-xl_1nM_93	6
+BCL-xl_1nM_76	7
+BCL-xl_1nM_82	7
+BCL-xl_1nM_88	8
+BCL-xl_1nM_94	8
+BCL-xl_1nM_77	9
+BCL-xl_1nM_83	10
+BCL-xl_1nM_89	11
+BCL-xl_1nM_95	12
 BCL-xl_1nM
-Naive_Pool 1 - 4 7 147
-Naive_Pool 1 - 10 7 153
-Naive_Pool 1 - 16 7 159
-Naive_Pool 1 - 22 7 165
-Naive_Pool
-Bfl1_1nM 1 - 1 5 96
-Bfl1_1nM 1 - 2 5 97
-Bfl1_1nM 1 - 7 5 102
-Bfl1_1nM 1 - 13 5 108
-Bfl1_1nM 1 - 19 5 114
-Bfl1_1nM 1 - 19 7 162
-Bfl1_1nM 2 - 8 5 103
-Bfl1_1nM 2 - 14 5 109
-Bfl1_1nM 2 - 20 5 115
-Bfl1_1nM 2 - 8 7 151
-Bfl1_1nM 3 - 3 5 98
-Bfl1_1nM 3 - 9 5 104
-Bfl1_1nM 4 - 15 5 110
-Bfl1_1nM 4 - 21 5 116
-Bfl1_1nM 5 - 4 5 99
-Bfl1_1nM 5 - 10 5 105
-Bfl1_1nM 6 - 16 5 111
-Bfl1_1nM 6 - 22 5 117
-Bfl1_1nM 7 - 5 5 100
-Bfl1_1nM 7 - 11 5 106
-Bfl1_1nM 8 - 17 5 112
-Bfl1_1nM 8 - 23 5 118
-Bfl1_1nM 9 - 6 5 101
-Bfl1_1nM 10 - 12 5 107
-Bfl1_1nM 11 - 18 5 113
-Bfl1_1nM 12 - 24 5 119
-Bfl1_1nM
-Bcl-xl_100nM 1 - 1 1 0
-Bcl-xl_100nM 1 - 7 1 6
-Bcl-xl_100nM 1 - 13 1 12
-Bcl-xl_100nM 1 - 19 1 18
-Bcl-xl_100nM 2 - 2 1 1
-Bcl-xl_100nM 2 - 8 1 7
-Bcl-xl_100nM 2 - 14 1 13
-Bcl-xl_100nM 3 - 3 1 2
-Bcl-xl_100nM 3 - 20 1 19
-Bcl-xl_100nM 4 - 9 1 8
-Bcl-xl_100nM 4 - 9 7 152
-Bcl-xl_100nM 5 - 15 1 14
-Bcl-xl_100nM 5 - 15 7 158
-Bcl-xl_100nM 6 - 21 1 20
-Bcl-xl_100nM 6 - 21 7 164
-Bcl-xl_100nM 7 - 4 1 3
-Bcl-xl_100nM 7 - 10 1 9
-Bcl-xl_100nM 8 - 16 1 15
-Bcl-xl_100nM 8 - 22 1 21
-Bcl-xl_100nM 9 - 5 1 4
-Bcl-xl_100nM 9 - 11 1 10
-Bcl-xl_100nM 10 - 17 1 16
-Bcl-xl_100nM 10 - 17 7 160
-Bcl-xl_100nM 10 - 23 1 22
-Bcl-xl_100nM 11 - 6 1 5
-Bcl-xl_100nM 11 - 6 7 149
-Bcl-xl_100nM 11 - 12 1 11
-Bcl-xl_100nM 12 - 18 1 17
-Bcl-xl_100nM 12 - 24 1 23
-Bcl-xl_100nM 12 - 24 7 167
-Bcl-xl_100nM
-Mcl1_100nM 1 - 1 2 24
-Mcl1_100nM 1 - 7 2 30
-Mcl1_100nM 1 - 7 7 150
-Mcl1_100nM 2 - 13 2 36
-Mcl1_100nM 2 - 19 2 42
-Mcl1_100nM 3 - 2 2 25
-Mcl1_100nM 3 - 8 2 31
-Mcl1_100nM 4 - 14 2 37
-Mcl1_100nM 4 - 20 2 43
-Mcl1_100nM 5 - 3 2 26
-Mcl1_100nM 5 - 9 2 32
-Mcl1_100nM 6 - 15 2 38
-Mcl1_100nM 6 - 21 2 44
-Mcl1_100nM 7 - 4 2 27
-Mcl1_100nM 7 - 10 2 33
-Mcl1_100nM 8 - 16 2 39
-Mcl1_100nM 8 - 22 2 45
-Mcl1_100nM 9 - 5 2 28
-Mcl1_100nM 9 - 11 2 34
-Mcl1_100nM 9 - 5 7 148
-Mcl1_100nM 10 - 17 2 40
-Mcl1_100nM 10 - 23 2 46
-Mcl1_100nM 10 - 23 7 166
-Mcl1_100nM 11 - 6 2 29
-Mcl1_100nM 11 - 12 2 35
-Mcl1_100nM 11 - 12 7 155
-Mcl1_100nM 12 - 18 2 41
-Mcl1_100nM 12 - 24 2 47
-Mcl1_100nM 12 - 18 7 161
+Mcl1_100nM_24	1
+Mcl1_100nM_30	1
+Mcl1_100nM_150	1
+Mcl1_100nM_36	2
+Mcl1_100nM_42	2
+Mcl1_100nM_25	3
+Mcl1_100nM_31	3
+Mcl1_100nM_37	4
+Mcl1_100nM_43	4
+Mcl1_100nM_26	5
+Mcl1_100nM_32	5
+Mcl1_100nM_38	6
+Mcl1_100nM_44	6
+Mcl1_100nM_27	7
+Mcl1_100nM_33	7
+Mcl1_100nM_39	8
+Mcl1_100nM_45	8
+Mcl1_100nM_28	9
+Mcl1_100nM_34	9
+Mcl1_100nM_148	9
+Mcl1_100nM_40	10
+Mcl1_100nM_46	10
+Mcl1_100nM_166	10
+Mcl1_100nM_29	11
+Mcl1_100nM_35	11
+Mcl1_100nM_155	11
+Mcl1_100nM_41	12
+Mcl1_100nM_47	12
+Mcl1_100nM_161	12
 Mcl1_100nM
-BFL1_100nM 1 - 1 3 48
-BFL1_100nM 1 - 7 3 54
-BFL1_100nM 1 - 13 3 60
-BFL1_100nM 1 - 1 7 144
-BFL1_100nM 2 - 2 3 49
-BFL1_100nM 2 - 8 3 55
-BFL1_100nM 2 - 19 3 66
-BFL1_100nM 3 - 14 3 61
-BFL1_100nM 3 - 20 3 67
-BFL1_100nM 4 - 3 3 50
-BFL1_100nM 4 - 9 3 56
-BFL1_100nM 5 - 15 3 62
-BFL1_100nM 5 - 21 3 68
-BFL1_100nM 6 - 4 3 51
-BFL1_100nM 6 - 10 3 57
-BFL1_100nM 7 - 16 3 63
-BFL1_100nM 7 - 22 3 69
-BFL1_100nM 8 - 5 3 52
-BFL1_100nM 8 - 11 3 58
-BFL1_100nM 9 - 17 3 64
-BFL1_100nM 9 - 23 3 70
-BFL1_100nM 10 - 6 3 53
-BFL1_100nM 10 - 12 3 59
-BFL1_100nM 11 - 18 3 65
-BFL1_100nM 12 - 24 3 71
-BFL1_100nM
-Mcl1_1nM 1 - 1 6 120
-Mcl1_1nM 1 - 7 6 126
-Mcl1_1nM 1 - 13 6 132
-Mcl1_1nM 1 - 13 7 156
-Mcl1_1nM 2 - 19 6 138
-Mcl1_1nM 2 - 2 6 121
-Mcl1_1nM 2 - 2 7 145
-Mcl1_1nM 2 - 8 6 127
-Mcl1_1nM 3 - 14 6 133
-Mcl1_1nM 3 - 20 6 139
-Mcl1_1nM 4 - 3 6 122
-Mcl1_1nM 4 - 9 6 128
-Mcl1_1nM 5 - 15 6 134
-Mcl1_1nM 6 - 21 6 140
-Mcl1_1nM 7 - 4 6 123
-Mcl1_1nM 7 - 10 6 129
-Mcl1_1nM 8 - 16 6 135
-Mcl1_1nM 8 - 22 6 141
-Mcl1_1nM 9 - 5 6 124
-Mcl1_1nM 9 - 11 6 130
-Mcl1_1nM 10 - 17 6 136
-Mcl1_1nM 10 - 23 6 142
-Mcl1_1nM 11 - 6 6 125
-Mcl1_1nM 11 - 12 6 131
-Mcl1_1nM 12 - 3 7 146
-Mcl1_1nM 12 - 18 6 137
-Mcl1_1nM 12 - 24 6 143
-Mcl1_1nM
-BCL-xl_1nM 1 - 1 4 72
-BCL-xl_1nM 1 - 7 4 78
-BCL-xl_1nM 1 - 13 4 84
-BCL-xl_1nM 1 - 19 4 90
-BCL-xl_1nM 1 - 2 4 73
-BCL-xl_1nM 2 - 8 4 79
-BCL-xl_1nM 2 - 14 4 85
-BCL-xl_1nM 2 - 14 7 157
-BCL-xl_1nM 2 - 20 4 91
-BCL-xl_1nM 3 - 3 4 74
-BCL-xl_1nM 3 - 9 4 80
-BCL-xl_1nM 4 - 15 4 86
-BCL-xl_1nM 4 - 21 4 92
-BCL-xl_1nM 5 - 4 4 75
-BCL-xl_1nM 5 - 10 4 81
-BCL-xl_1nM 6 - 16 4 87
-BCL-xl_1nM 6 - 22 4 93
-BCL-xl_1nM 7 - 5 4 76
-BCL-xl_1nM 7 - 11 4 82
-BCL-xl_1nM 8 - 17 4 88
-BCL-xl_1nM 8 - 23 4 94
-BCL-xl_1nM 9 - 6 4 77
-BCL-xl_1nM 10 - 12 4 83
-BCL-xl_1nM 11 - 18 4 89
-BCL-xl_1nM 12 - 24 4 95
-BCL-xl_1nM
-Naive_Pool 1 - 4 7 147
-Naive_Pool 1 - 10 7 153
-Naive_Pool 1 - 16 7 159
-Naive_Pool 1 - 22 7 165
+Naive_Pool_147	1
+Naive_Pool_153	1
+Naive_Pool_159	1
+Naive_Pool_165	1
 Naive_Pool
-Bfl1_1nM 1 - 1 5 96
-Bfl1_1nM 1 - 2 5 97
-Bfl1_1nM 1 - 7 5 102
-Bfl1_1nM 1 - 13 5 108
-Bfl1_1nM 1 - 19 5 114
-Bfl1_1nM 1 - 19 7 162
-Bfl1_1nM 2 - 8 5 103
-Bfl1_1nM 2 - 14 5 109
-Bfl1_1nM 2 - 20 5 115
-Bfl1_1nM 2 - 8 7 151
-Bfl1_1nM 3 - 3 5 98
-Bfl1_1nM 3 - 9 5 104
-Bfl1_1nM 4 - 15 5 110
-Bfl1_1nM 4 - 21 5 116
-Bfl1_1nM 5 - 4 5 99
-Bfl1_1nM 5 - 10 5 105
-Bfl1_1nM 6 - 16 5 111
-Bfl1_1nM 6 - 22 5 117
-Bfl1_1nM 7 - 5 5 100
-Bfl1_1nM 7 - 11 5 106
-Bfl1_1nM 8 - 17 5 112
-Bfl1_1nM 8 - 23 5 118
-Bfl1_1nM 9 - 6 5 101
-Bfl1_1nM 10 - 12 5 107
-Bfl1_1nM 11 - 18 5 113
-Bfl1_1nM 12 - 24 5 119
-Bfl1_1nM
-Bcl-xl_100nM 1 - 1 1 0
-Bcl-xl_100nM 1 - 7 1 6
-Bcl-xl_100nM 1 - 13 1 12
-Bcl-xl_100nM 1 - 19 1 18
-Bcl-xl_100nM 2 - 2 1 1
-Bcl-xl_100nM 2 - 8 1 7
-Bcl-xl_100nM 2 - 14 1 13
-Bcl-xl_100nM 3 - 3 1 2
-Bcl-xl_100nM 3 - 20 1 19
-Bcl-xl_100nM 4 - 9 1 8
-Bcl-xl_100nM 4 - 9 7 152
-Bcl-xl_100nM 5 - 15 1 14
-Bcl-xl_100nM 5 - 15 7 158
-Bcl-xl_100nM 6 - 21 1 20
-Bcl-xl_100nM 6 - 21 7 164
-Bcl-xl_100nM 7 - 4 1 3
-Bcl-xl_100nM 7 - 10 1 9
-Bcl-xl_100nM 8 - 16 1 15
-Bcl-xl_100nM 8 - 22 1 21
-Bcl-xl_100nM 9 - 5 1 4
-Bcl-xl_100nM 9 - 11 1 10
-Bcl-xl_100nM 10 - 17 1 16
-Bcl-xl_100nM 10 - 17 7 160
-Bcl-xl_100nM 10 - 23 1 22
-Bcl-xl_100nM 11 - 6 1 5
-Bcl-xl_100nM 11 - 6 7 149
-Bcl-xl_100nM 11 - 12 1 11
-Bcl-xl_100nM 12 - 18 1 17
-Bcl-xl_100nM 12 - 24 1 23
-Bcl-xl_100nM 12 - 24 7 167
+Bcl-xl_100nM_0	1
+Bcl-xl_100nM_6	1
+Bcl-xl_100nM_12	1
+Bcl-xl_100nM_18	1
+Bcl-xl_100nM_1	2
+Bcl-xl_100nM_7	2
+Bcl-xl_100nM_13	2
+Bcl-xl_100nM_2	3
+Bcl-xl_100nM_19	3
+Bcl-xl_100nM_8	4
+Bcl-xl_100nM_152	4
+Bcl-xl_100nM_14	5
+Bcl-xl_100nM_158	5
+Bcl-xl_100nM_20	6
+Bcl-xl_100nM_164	6
+Bcl-xl_100nM_3	7
+Bcl-xl_100nM_9	7
+Bcl-xl_100nM_15	8
+Bcl-xl_100nM_21	8
+Bcl-xl_100nM_4	9
+Bcl-xl_100nM_10	9
+Bcl-xl_100nM_16	10
+Bcl-xl_100nM_160	10
+Bcl-xl_100nM_22	10
+Bcl-xl_100nM_5	11
+Bcl-xl_100nM_149	11
+Bcl-xl_100nM_11	11
+Bcl-xl_100nM_17	12
+Bcl-xl_100nM_23	12
+Bcl-xl_100nM_167	12
 Bcl-xl_100nM
+Bfl1_1nM_96	1
+Bfl1_1nM_97	1
+Bfl1_1nM_102	1
+Bfl1_1nM_108	1
+Bfl1_1nM_114	1
+Bfl1_1nM_162	1
+Bfl1_1nM_103	2
+Bfl1_1nM_109	2
+Bfl1_1nM_115	2
+Bfl1_1nM_151	2
+Bfl1_1nM_98	3
+Bfl1_1nM_104	3
+Bfl1_1nM_110	4
+Bfl1_1nM_116	4
+Bfl1_1nM_99	5
+Bfl1_1nM_105	5
+Bfl1_1nM_111	6
+Bfl1_1nM_117	6
+Bfl1_1nM_100	7
+Bfl1_1nM_106	7
+Bfl1_1nM_112	8
+Bfl1_1nM_118	8
+Bfl1_1nM_101	9
+Bfl1_1nM_107	10
+Bfl1_1nM_113	11
+Bfl1_1nM_119	12
+Bfl1_1nM
+Mcl1_1nM_120	1
+Mcl1_1nM_126	1
+Mcl1_1nM_132	1
+Mcl1_1nM_156	1
+Mcl1_1nM_138	2
+Mcl1_1nM_121	2
+Mcl1_1nM_145	2
+Mcl1_1nM_127	2
+Mcl1_1nM_133	3
+Mcl1_1nM_139	3
+Mcl1_1nM_122	4
+Mcl1_1nM_128	4
+Mcl1_1nM_134	5
+Mcl1_1nM_140	6
+Mcl1_1nM_123	7
+Mcl1_1nM_129	7
+Mcl1_1nM_135	8
+Mcl1_1nM_141	8
+Mcl1_1nM_124	9
+Mcl1_1nM_130	9
+Mcl1_1nM_136	10
+Mcl1_1nM_142	10
+Mcl1_1nM_125	11
+Mcl1_1nM_131	11
+Mcl1_1nM_146	12
+Mcl1_1nM_137	12
+Mcl1_1nM_143	12
+Mcl1_1nM
+BFL1_100nM_48	1
+BFL1_100nM_54	1
+BFL1_100nM_60	1
+BFL1_100nM_144	1
+BFL1_100nM_49	2
+BFL1_100nM_55	2
+BFL1_100nM_66	2
+BFL1_100nM_61	3
+BFL1_100nM_67	3
+BFL1_100nM_50	4
+BFL1_100nM_56	4
+BFL1_100nM_62	5
+BFL1_100nM_68	5
+BFL1_100nM_51	6
+BFL1_100nM_57	6
+BFL1_100nM_63	7
+BFL1_100nM_69	7
+BFL1_100nM_52	8
+BFL1_100nM_58	8
+BFL1_100nM_64	9
+BFL1_100nM_70	9
+BFL1_100nM_53	10
+BFL1_100nM_59	10
+BFL1_100nM_65	11
+BFL1_100nM_71	12
+BFL1_100nM
+BCL-xl_1nM_72	1
+BCL-xl_1nM_78	1
+BCL-xl_1nM_84	1
+BCL-xl_1nM_90	1
+BCL-xl_1nM_73	1
+BCL-xl_1nM_79	2
+BCL-xl_1nM_85	2
+BCL-xl_1nM_157	2
+BCL-xl_1nM_91	2
+BCL-xl_1nM_74	3
+BCL-xl_1nM_80	3
+BCL-xl_1nM_86	4
+BCL-xl_1nM_92	4
+BCL-xl_1nM_75	5
+BCL-xl_1nM_81	5
+BCL-xl_1nM_87	6
+BCL-xl_1nM_93	6
+BCL-xl_1nM_76	7
+BCL-xl_1nM_82	7
+BCL-xl_1nM_88	8
+BCL-xl_1nM_94	8
+BCL-xl_1nM_77	9
+BCL-xl_1nM_83	10
+BCL-xl_1nM_89	11
+BCL-xl_1nM_95	12
+BCL-xl_1nM
+Mcl1_100nM_24	1
+Mcl1_100nM_30	1
+Mcl1_100nM_150	1
+Mcl1_100nM_36	2
+Mcl1_100nM_42	2
+Mcl1_100nM_25	3
+Mcl1_100nM_31	3
+Mcl1_100nM_37	4
+Mcl1_100nM_43	4
+Mcl1_100nM_26	5
+Mcl1_100nM_32	5
+Mcl1_100nM_38	6
+Mcl1_100nM_44	6
+Mcl1_100nM_27	7
+Mcl1_100nM_33	7
+Mcl1_100nM_39	8
+Mcl1_100nM_45	8
+Mcl1_100nM_28	9
+Mcl1_100nM_34	9
+Mcl1_100nM_148	9
+Mcl1_100nM_40	10
+Mcl1_100nM_46	10
+Mcl1_100nM_166	10
+Mcl1_100nM_29	11
+Mcl1_100nM_35	11
+Mcl1_100nM_155	11
+Mcl1_100nM_41	12
+Mcl1_100nM_47	12
+Mcl1_100nM_161	12
+Mcl1_100nM
+Naive_Pool_147	1
+Naive_Pool_153	1
+Naive_Pool_159	1
+Naive_Pool_165	1
+Naive_Pool
+Bcl-xl_100nM_0	1
+Bcl-xl_100nM_6	1
+Bcl-xl_100nM_12	1
+Bcl-xl_100nM_18	1
+Bcl-xl_100nM_1	2
+Bcl-xl_100nM_7	2
+Bcl-xl_100nM_13	2
+Bcl-xl_100nM_2	3
+Bcl-xl_100nM_19	3
+Bcl-xl_100nM_8	4
+Bcl-xl_100nM_152	4
+Bcl-xl_100nM_14	5
+Bcl-xl_100nM_158	5
+Bcl-xl_100nM_20	6
+Bcl-xl_100nM_164	6
+Bcl-xl_100nM_3	7
+Bcl-xl_100nM_9	7
+Bcl-xl_100nM_15	8
+Bcl-xl_100nM_21	8
+Bcl-xl_100nM_4	9
+Bcl-xl_100nM_10	9
+Bcl-xl_100nM_16	10
+Bcl-xl_100nM_160	10
+Bcl-xl_100nM_22	10
+Bcl-xl_100nM_5	11
+Bcl-xl_100nM_149	11
+Bcl-xl_100nM_11	11
+Bcl-xl_100nM_17	12
+Bcl-xl_100nM_23	12
+Bcl-xl_100nM_167	12
+Bcl-xl_100nM
+Bfl1_1nM_96	1
+Bfl1_1nM_97	1
+Bfl1_1nM_102	1
+Bfl1_1nM_108	1
+Bfl1_1nM_114	1
+Bfl1_1nM_162	1
+Bfl1_1nM_103	2
+Bfl1_1nM_109	2
+Bfl1_1nM_115	2
+Bfl1_1nM_151	2
+Bfl1_1nM_98	3
+Bfl1_1nM_104	3
+Bfl1_1nM_110	4
+Bfl1_1nM_116	4
+Bfl1_1nM_99	5
+Bfl1_1nM_105	5
+Bfl1_1nM_111	6
+Bfl1_1nM_117	6
+Bfl1_1nM_100	7
+Bfl1_1nM_106	7
+Bfl1_1nM_112	8
+Bfl1_1nM_118	8
+Bfl1_1nM_101	9
+Bfl1_1nM_107	10
+Bfl1_1nM_113	11
+Bfl1_1nM_119	12
+Bfl1_1nM
+Mcl1_1nM_120	1
+Mcl1_1nM_126	1
+Mcl1_1nM_132	1
+Mcl1_1nM_156	1
+Mcl1_1nM_138	2
+Mcl1_1nM_121	2
+Mcl1_1nM_145	2
+Mcl1_1nM_127	2
+Mcl1_1nM_133	3
+Mcl1_1nM_139	3
+Mcl1_1nM_122	4
+Mcl1_1nM_128	4
+Mcl1_1nM_134	5
+Mcl1_1nM_140	6
+Mcl1_1nM_123	7
+Mcl1_1nM_129	7
+Mcl1_1nM_135	8
+Mcl1_1nM_141	8
+Mcl1_1nM_124	9
+Mcl1_1nM_130	9
+Mcl1_1nM_136	10
+Mcl1_1nM_142	10
+Mcl1_1nM_125	11
+Mcl1_1nM_131	11
+Mcl1_1nM_146	12
+Mcl1_1nM_137	12
+Mcl1_1nM_143	12
+Mcl1_1nM

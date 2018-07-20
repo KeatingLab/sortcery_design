@@ -26,8 +26,7 @@ def main():
                     barcode=(barcode2*24+barcode1)
                     
                     fileName = filePrefix+str(bg)+"_code_"+str(barcode)+".smry"
-                    
-                    print(experiment,gate,"-",barcode1+1,barcode2+1,barcode)
+                    print( experiment+"_"+str(barcode) + "\t" + str(gate) )
             
             print(experiment)
             

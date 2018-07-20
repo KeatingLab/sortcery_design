@@ -27,7 +27,7 @@ def main():
                     
                     fileName = filePrefix+str(bg)+"_code_"+str(barcode)+".smry"
                     
-                    print(experiment,gate,"-",barcode)
+		    print( experiment+"_"+str(barcode) + "\t" + str(gate) )
             
             print(experiment)
             
