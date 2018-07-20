@@ -1,7 +1,7 @@
 import os 
 
 
-numBg = 2;
+numBg = 1;
 dirName = "/home/vxue/data/SORTCERY_PUBLICATION/2016_11_09/workspace/"
 filePrefix = dirName+"seqframe/summary/seqframe_"
 multiplexFile = "/home/vxue/data/SORTCERY_PUBLICATION/2016_11_09/multiplex.txt"
