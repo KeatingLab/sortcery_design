@@ -10,6 +10,7 @@ numBarcodes2 = 2;
 
 def main():
     myDataAssignments = getDataSplit(multiplexFile)
+    print("experiment", "unique_barcode_identifier", "sortcery_gate", "barcode1", "barcode2")
     for bg in range(numBg):
         for experiment in myDataAssignments:
             
@@ -28,9 +29,7 @@ def main():
                     
                     fileName = filePrefix+str(bg)+"_code_"+str(barcode)+".smry"
                     
-                    print( experiment+"_"+str(barcode) + "\t" + str(gate) )
-            
-            print(experiment)
+                    print( experiment, str(barcode) , str(gate), barcode1, barcode2)
             
             
             #Special case for Naieve
